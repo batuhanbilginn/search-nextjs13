@@ -4,3 +4,8 @@ export interface NavItem {
   disabled?: boolean
   external?: boolean
 }
+
+export interface ProsAndCons {
+  type: string
+  text: string
+}
