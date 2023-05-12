@@ -100,6 +100,6 @@ export const siteConfig = {
   ],
   links: {
     twitter: "https://twitter.com/makrdev",
-    github: "https://github.com/batuhanbilginn",
+    github: "https://github.com/batuhanbilginn/search-nextjs13",
   },
 }
