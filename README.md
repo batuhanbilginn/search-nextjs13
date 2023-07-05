@@ -1,3 +1,7 @@
+# Full tutorial on Youtube:
+
+[![](https://img.youtube.com/vi/dSMp-oihHnw/0.jpg)](https://www.youtube.com/watch?v=dSMp-oihHnw)
+
 # next-template
 
 A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
